@@ -1,2 +1,2 @@
 # FlIPKART
-flipkart clone made by me
+flipkart clone using html and css
